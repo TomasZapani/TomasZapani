@@ -23,14 +23,13 @@
 - 💻 Skilled in Python libraries: `Pandas`, `NumPy`, `Matplotlib`, `Scikit-Learn`
 - 🚀 Exploring `FastAPI`, `Web Deployment`, and `Cloud Integration`
 - 📈 Always `building`, `experimenting`, and `learning`
-- 🔗Write to me at zapanitomas6@gamil.com and my [Curriculum Vitae](https://www.linkedin.com/in/tomas-zapani-736722234/)
+- 🔗Write to me at zapanitomas6@gmail.com and my [Curriculum Vitae](https://www.linkedin.com/in/tomas-zapani-736722234/)
 
 <br>
 
 ## 👤 Connect with Me
 
 <p align="center">
-  <a href="mailto:zapanitomas6@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/TomasZapani"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/tomas-zapani-736722234/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
