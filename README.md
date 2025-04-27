@@ -72,24 +72,6 @@
 <em>...and more!</em>
 </p>
 
-<br>
-
-## 🌟 Featured Projects
-
-- 📊 **Data Analysis App**: A web app to visualize and analyze datasets using FastAPI and Streamlit.
-- 🤖 **AI Chatbot**: A simple chatbot powered by a fine-tuned language model.
-- 🤖 **Face Recognition Attendance System**: A Python+OpenCV system to automate attendance recording.
-- 🤖 **Robotic Arm Control**: Built a basic robotic arm with Arduino and Python integration.
-
-<br>
-
-## 📜 Certifications
-
-- ✅ Python for Data Science (Coursera)
-- ✅ Machine Learning Specialization (DeepLearning.AI)
-- ✅ Data Science Foundations (edX)
-
-<br>
 
 ## 📊 GitHub Stats
 
