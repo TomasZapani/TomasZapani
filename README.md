@@ -30,8 +30,8 @@
 ## 👤 Connect with Me
 
 <p align="center">
-  <a href="mailto:tu_email@example.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/tu_usuario"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:zapanitomas6@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/TomasZapani"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/tomas-zapani-736722234/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
