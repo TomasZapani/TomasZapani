@@ -66,7 +66,7 @@
 <p align="center">
   <img alt="Git" src="https://img.icons8.com/fluency/48/000000/git.png"/>
   <img alt="GitHub" src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
-  <img alt="Jupyter" src="https://img.icons8.com/color/48/000000/jupyter.png"/>
+  <img alt="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48"/>
   <img alt="Arduino" src="https://img.icons8.com/color/48/000000/arduino.png"/>
 </p>
 
