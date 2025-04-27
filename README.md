@@ -64,12 +64,14 @@
 <p align="center">
   <img alt="GitHub" src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
   <img alt="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48"/>
+  <img alt="Google Colab" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Google_Colaboratory_Logo.svg" width="48"/>
   <img alt="Arduino" src="https://img.icons8.com/color/48/000000/arduino.png"/>
 </p>
 
 ### IDEs
 <p align="center">
   <img alt="VSCode" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img alt="PyCharm" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
 </p>
 
 <p align="center">
