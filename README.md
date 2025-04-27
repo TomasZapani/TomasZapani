@@ -52,7 +52,7 @@
 <p align="center">
   <img alt="Pandas" src="https://img.icons8.com/color/48/000000/pandas.png"/>
   <img alt="NumPy" src="https://img.icons8.com/color/48/000000/numpy.png"/>
-  <img alt="Matplotlib" src="https://img.icons8.com/color/48/000000/matplotlib.png"/>
+  <img alt="Matplotlib" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48"/>
   <img alt="Scikit-Learn" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-scikit-learn-machine-learning-library-for-the-python-programming-language-logo-color-tal-revivo.png"/>
   <img alt="FastAPI" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-fastapi-a-modern-fast-high-performance-web-framework-for-building-apis-with-python-logo-color-tal-revivo.png"/>
 </p>
