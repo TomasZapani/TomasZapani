@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Tomás Zapani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/tu_usuario"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300C7FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Science+%7C+Machine+Learning+%7C+Artificial+Intelligence+Engineer+%7C+Computer+Technician+%7C+Python+Developer+%7C+Robotics+%26+Electronics+Enthusiast+%7C+Always+Learning"/></a>
+  <a href="https://github.com/tu_usuario">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00C7FF&size=24&center=true&vCenter=true&width=500&height=70&lines=Data+Science;Machine+Learning;AI+Engineer;Computer+Technician;Python+Developer;Robotics+and+Electronics;Always+Learning"/>
+  </a>
 </p>
 
 <br>
