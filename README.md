@@ -81,9 +81,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tu_usuario&theme=tokyonight" alt="Streak Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tu_usuario&theme=tokyonight" alt="Activity Graph"/>
-</p>
 
 ---
 
