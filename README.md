@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tomás Zapani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/tu_usuario"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300C7FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Science+%7C+Machine+Learning+%7C+Artificial+Intelligence+%7C+Python+Developer+%7C+Robotics+%26+Electronics+Enthusiast+%7C+Always+Learning"/></a>
+  <a href="https://github.com/tu_usuario"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300C7FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Science+%7C+Machine+Learning+%7C+Artificial+Intelligence+Engineer+%7C+Computer+Technician+%7C+Python+Developer+%7C+Robotics+%26+Electronics+Enthusiast+%7C+Always+Learning"/></a>
 </p>
 
 <br>
@@ -14,11 +14,11 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px"></picture>
 
+- 🏫 Currently studying `Data Science`, `Machine Learning`, and `Artificial Intelligence Engineering`
 - 💻 Background as a `Computer Technician`
-- 🏫 Currently studying `Data Science`, `Machine Learning` and `Artificial Intelligence Engineering`
 - 🫠 Passionate about `AI`, `Software Development`, and `Robotics`
-- 🛠þ Working with electronics and developing embedded systems projects
-- 💻 Skilled in Python libraries: `Pandas`, `NumPy`, `Matplotlib`, `Scikit-Learn`,`etc`
+- 🛠️ Working with electronics and developing embedded systems projects
+- 💻 Skilled in Python libraries: `Pandas`, `NumPy`, `Matplotlib`, `Scikit-Learn`
 - 🚀 Exploring `FastAPI`, `Web Deployment`, and `Cloud Integration`
 - 📈 Always `building`, `experimenting`, and `learning`
 - 🔗 Check my [LinkedIn Profile](https://www.linkedin.com/in/tomas-zapani-736722234/) and my [Curriculum Vitae](https://www.linkedin.com/in/tomas-zapani-736722234/)
@@ -35,7 +35,74 @@
 
 <br>
 
-## 🛠þ
+## 🛠️ My Tech Stack
 
+### Programming Languages
+<p align="center"> 
+  <img alt="Python" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  <img alt="SQL" src="https://img.icons8.com/color/48/000000/sql.png"/>
+  <img alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img alt="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+</p>
 
-<p align="center"> <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python"/> <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" title="SQL"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" title="HTML5"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/> <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" title="Pandas"/> <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" title="NumPy"/> <img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib" title="Matplotlib"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-fastapi-a-modern-fast-high-performance-web-framework-for-building-apis-with-python-logo-color-tal-revivo.png" alt="FastAPI" title="FastAPI"/> <img src="https://img.icons8.com/fluency/48/000000/git.png" alt="Git" title="Git"/> <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" title="GitHub"/> <img src="https://img.icons8.com/color/48/000000/jupyter.png" alt="Jupyter Notebook" title="Jupyter Notebook"/> <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" title="Arduino"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="Visual Studio Code"/> </p>
+### Libraries and Frameworks
+<p align="center">
+  <img alt="Pandas" src="https://img.icons8.com/color/48/000000/pandas.png"/>
+  <img alt="NumPy" src="https://img.icons8.com/color/48/000000/numpy.png"/>
+  <img alt="Matplotlib" src="https://img.icons8.com/color/48/000000/matplotlib.png"/>
+  <img alt="Scikit-Learn" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-scikit-learn-machine-learning-library-for-the-python-programming-language-logo-color-tal-revivo.png"/>
+  <img alt="FastAPI" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-fastapi-a-modern-fast-high-performance-web-framework-for-building-apis-with-python-logo-color-tal-revivo.png"/>
+</p>
+
+### Tools
+<p align="center">
+  <img alt="Git" src="https://img.icons8.com/fluency/48/000000/git.png"/>
+  <img alt="GitHub" src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
+  <img alt="Jupyter" src="https://img.icons8.com/color/48/000000/jupyter.png"/>
+  <img alt="Arduino" src="https://img.icons8.com/color/48/000000/arduino.png"/>
+</p>
+
+### IDEs
+<p align="center">
+  <img alt="VSCode" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+</p>
+
+<p align="center">
+<em>...and more!</em>
+</p>
+
+<br>
+
+## 🌟 Featured Projects
+
+- 📊 **Data Analysis App**: A web app to visualize and analyze datasets using FastAPI and Streamlit.
+- 🤖 **AI Chatbot**: A simple chatbot powered by a fine-tuned language model.
+- 🤖 **Face Recognition Attendance System**: A Python+OpenCV system to automate attendance recording.
+- 🤖 **Robotic Arm Control**: Built a basic robotic arm with Arduino and Python integration.
+
+<br>
+
+## 📜 Certifications
+
+- ✅ Python for Data Science (Coursera)
+- ✅ Machine Learning Specialization (DeepLearning.AI)
+- ✅ Data Science Foundations (edX)
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tu_usuario&theme=tokyonight" alt="Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tu_usuario&theme=tokyonight" alt="Activity Graph"/>
+</p>
+
+---
+
+<p align="center">💌 Always Learning, Always Growing!</p>
