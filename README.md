@@ -14,10 +14,11 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px"></picture>
 
-- 🏫 Currently studying `Data Science`, `Machine Learning` and `Artificial Intelligence`
+- 💻 Background as a `Computer Technician`
+- 🏫 Currently studying `Data Science`, `Machine Learning` and `Artificial Intelligence Engineering`
 - 🫠 Passionate about `AI`, `Software Development`, and `Robotics`
 - 🛠þ Working with electronics and developing embedded systems projects
-- 💻 Skilled in Python libraries: `Pandas`, `NumPy`, `Matplotlib`, `Scikit-Learn`
+- 💻 Skilled in Python libraries: `Pandas`, `NumPy`, `Matplotlib`, `Scikit-Learn`,`etc`
 - 🚀 Exploring `FastAPI`, `Web Deployment`, and `Cloud Integration`
 - 📈 Always `building`, `experimenting`, and `learning`
 - 🔗 Check my [LinkedIn Profile](https://www.linkedin.com/in/tomas-zapani-736722234/) and my [Curriculum Vitae](https://www.linkedin.com/in/tomas-zapani-736722234/)
@@ -35,3 +36,6 @@
 <br>
 
 ## 🛠þ
+
+
+<p align="center"> <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python"/> <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" title="SQL"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" title="HTML5"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/> <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" title="Pandas"/> <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" title="NumPy"/> <img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib" title="Matplotlib"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-fastapi-a-modern-fast-high-performance-web-framework-for-building-apis-with-python-logo-color-tal-revivo.png" alt="FastAPI" title="FastAPI"/> <img src="https://img.icons8.com/fluency/48/000000/git.png" alt="Git" title="Git"/> <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" title="GitHub"/> <img src="https://img.icons8.com/color/48/000000/jupyter.png" alt="Jupyter Notebook" title="Jupyter Notebook"/> <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" title="Arduino"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="Visual Studio Code"/> </p>
