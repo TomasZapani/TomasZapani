@@ -52,6 +52,7 @@
   <img alt="Pandas" src="https://img.icons8.com/color/48/000000/pandas.png"/>
   <img alt="NumPy" src="https://img.icons8.com/color/48/000000/numpy.png"/>
   <img alt="Matplotlib" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48"/>
+  <img alt="Seaborn" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="90"/>
   <img alt="Scikit-Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
   <img alt="FastAPI" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="48"/>
 </p>
