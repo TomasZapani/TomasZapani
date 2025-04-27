@@ -23,7 +23,7 @@
 - 💻 Skilled in Python libraries: `Pandas`, `NumPy`, `Matplotlib`, `Scikit-Learn`
 - 🚀 Exploring `FastAPI`, `Web Deployment`, and `Cloud Integration`
 - 📈 Always `building`, `experimenting`, and `learning`
-- 🔗Write to me at zapanitomas6@gmail.com and my [Curriculum Vitae](https://media.licdn.com/dms/image/v2/D4D22AQHqzBPXZZYjwA/feedshare-shrink_1280/B4DZZ1WYpfGgAk-/0/1745725525246?e=1748476800&v=beta&t=RIOtn3n8L04Cidej33hnGLIhFtvxPhHSIvHdVKYB-yA)
+- 🔗Write to me at zapanitomas7@gmail.com and my [Curriculum Vitae](https://media.licdn.com/dms/image/v2/D4D22AQHqzBPXZZYjwA/feedshare-shrink_1280/B4DZZ1WYpfGgAk-/0/1745725525246?e=1748476800&v=beta&t=RIOtn3n8L04Cidej33hnGLIhFtvxPhHSIvHdVKYB-yA)
 
 <br>
 
