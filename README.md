@@ -73,7 +73,6 @@
 </p>
 
 <p align="center">
-<em>...¡y más!</em>
 </p>
 
 
