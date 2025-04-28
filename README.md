@@ -84,7 +84,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=TomasZapani&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub"/>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=TomasZapani&theme=tokyonight" alt="Rachas de GitHub"/>
-  <img alt="CLion" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" width="48" height="48"/>
+
 
 
 </p>
