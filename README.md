@@ -42,8 +42,6 @@
 <p align="center"> 
   <img alt="Python" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
   <img alt="SQL" src="https://img.icons8.com/color/48/000000/sql.png"/>
-  <img alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <img alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img alt="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 </p>
 
