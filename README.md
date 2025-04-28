@@ -64,7 +64,7 @@
   <img alt="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48"/>
   <img alt="Google Colab" src="https://github.com/TomasZapani/TomasZapani/raw/main/google-colab.png" width="48"/>
   <img alt="Arduino" src="https://img.icons8.com/color/48/000000/arduino.png"/>
-  <img alt="MySQL" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/> MySQL
+  <img alt="MySQL" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
 
 </p>
 
