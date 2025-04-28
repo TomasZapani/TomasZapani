@@ -21,7 +21,7 @@
 - 🫠 Apasionado por la `IA`, el `Desarrollo de Software` y la `Robótica`
 - 🛠️ Trabajando con electrónica y desarrollando proyectos de sistemas embebidos
 - 💻 Con habilidades en librerías de Python: `Pandas`, `NumPy`, `Matplotlib`, `Scikit-Learn`,`Etc..`
-- 🚀 Explorando `FastAPI`, `Despliegue Web` e `Integración en la Nube`
+- 🚀 Explorando `FastAPI`, `Despliegue Web`,`BD` e `Integración en la Nube`
 - 📈 Siempre `creando`, `experimentando` y `aprendiendo`
 - 🔗Escribime a zapanitomas7@gmail.com y mi [Currículum Vitae](https://media.licdn.com/dms/image/v2/D4D22AQHqzBPXZZYjwA/feedshare-shrink_1280/B4DZZ1WYpfGgAk-/0/1745725525246?e=1748476800&v=beta&t=RIOtn3n8L04Cidej33hnGLIhFtvxPhHSIvHdVKYB-yA)
 
