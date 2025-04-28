@@ -70,7 +70,6 @@
 <p align="center">
   <img alt="IntelliJ IDEA" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
   <img alt="PyCharm" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-  <img alt="CLion Logo" src="https://img.icons8.com/fluency/48/000000/clion.png" width="48" height="48"/>
 
 </p>
 
