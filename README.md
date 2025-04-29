@@ -16,7 +16,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px"></picture>
 
-- 🏫 Actualmente estudiando `Ciencia de Datos`, `Aprendizaje Automático` e `Ingeniería en Inteligencia Artificial`
+- 🏫 Actualmente estudiando `Ciencia de Datos`, `Aprendizaje Automático`, `Deep Learning` e `Ingeniería en Inteligencia Artificial`
 - 💻 Formación como `Técnico en Computación`
 - 🫠 Apasionado por la `IA`, el `Desarrollo de Software` y la `Robótica`
 - 🛠️ Trabajando con electrónica y desarrollando proyectos de sistemas embebidos
