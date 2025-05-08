@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/tu_usuario">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00C7FF&size=24&center=true&vCenter=true&width=500&height=70&lines=IoT;ML+y+DP;Ingeniería+en+IA-LLM;Técnico+en+Computación;Desarrollador+Python;Robótica+y+Electrónica;Siempre+Aprendiendo"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00C7FF&size=24&center=true&vCenter=true&width=500&height=70&lines=IoT;Ingeniería+en+IA-LLM;Técnico+en+Computación;Desarrollador+Python;Robótica+y+Electrónica;Siempre+Aprendiendo"/>
   </a>
 </p>
 
