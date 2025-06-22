@@ -65,9 +65,9 @@
 
 ### IDEs
 <p align="center">
-  <img alt="IntelliJ IDEA" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
   <img alt="PyCharm" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
   <img alt="Arduino" src="https://img.icons8.com/color/48/000000/arduino.png"/>
+   <img alt="Visual Studio Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 </p>
 
 <p align="center">
