@@ -17,7 +17,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px"></picture>
 
-- 🏫 Actualmente estudiando `IoT`, `Electrónica`,`Técnicatura en computación`
+- 🏫 Actualmente estudiando `Electrónica`,`Técnicatura en computación`
 - 💻 Formación como `Técnico en Computación`
 - 🫠 Apasionado por la `IA`y la `Robótica-Electrónica`
 - 🛠️ Trabajando con electrónica y desarrollando proyectos de sistemas embebidos
