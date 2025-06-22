@@ -19,7 +19,7 @@
 
 - 🏫 Actualmente estudiando `IoT`, `Electrónica`,`Técnicatura en computación`
 - 💻 Formación como `Técnico en Computación`
-- 🫠 Apasionado por la `IA`, el `Desarrollo de Software` y la `Robótica-Electrónica`
+- 🫠 Apasionado por la `IA`y la `Robótica-Electrónica`
 - 🛠️ Trabajando con electrónica y desarrollando proyectos de sistemas embebidos
 - 📈 Siempre `creando`, `experimentando` y `aprendiendo`
 - 🔗Escribime a zapanitomas7@gmail.com y mi [Currículum Vitae](https://media.licdn.com/dms/image/v2/D4D22AQHqzBPXZZYjwA/feedshare-shrink_1280/B4DZZ1WYpfGgAk-/0/1745725525246?e=1748476800&v=beta&t=RIOtn3n8L04Cidej33hnGLIhFtvxPhHSIvHdVKYB-yA)
