@@ -60,7 +60,8 @@
   <img alt="GitHub" src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
   <img alt="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48"/>
   <imp alt="MySQL" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
-  <img alt="n8n" src="https://img.icons8.com/fluency/48/n8n.png"/>
+ <img alt="n8n" src="https://n8n.io/images/favicon.png" width="48" height="48" />
+
 
 
 </p>
