@@ -19,8 +19,8 @@
 
 - 🏫 Actualmente estudiando `Electrónica`,`Técnicatura en computación`
 - 💻 Formación como `Técnico en Computación`
-- 🫠 Apasionado por la `IA`y la `Robótica-Electrónica`
-- 🛠️ Trabajando con electrónica y desarrollando proyectos de sistemas embebidos
+- 🫠 Apasionado por la `IA`, `Robótica-Electrónica`,`Automatización`
+- 🛠️ Trabajando con electrónica,desarrollando proyectos de sistemas embebidos y automatizaciones
 - 📈 Siempre `creando`, `experimentando` y `aprendiendo`
 - 🔗Escribime a zapanitomas7@gmail.com y mi [Currículum Vitae](https://media.licdn.com/dms/image/v2/D4D22AQHqzBPXZZYjwA/feedshare-shrink_1280/B4DZZ1WYpfGgAk-/0/1745725525246?e=1748476800&v=beta&t=RIOtn3n8L04Cidej33hnGLIhFtvxPhHSIvHdVKYB-yA)
 
@@ -60,6 +60,8 @@
   <img alt="GitHub" src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
   <img alt="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48"/>
   <imp alt="MySQL" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
+  <img alt="n8n" src="https://img.icons8.com/fluency/48/n8n.png"/>
+
 
 </p>
 
