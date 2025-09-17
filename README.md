@@ -18,9 +18,9 @@
 <picture> <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px"></picture>
 
 - 🏫 Actualmente estudiando `Electrónica`,`Técnicatura en computación`
-- 💻 Formación como `Técnico en Computación`
+- 💻 Formación como `Técnico en Computación y electrónico`
 - 🫠 Apasionado por la `IA`, `Robótica-Electrónica`,`Automatización`
-- 🛠️ Trabajando con electrónica,desarrollando proyectos de sistemas embebidos y automatizaciones con n8n y python,etc
+- 🛠️ Trabajando con electrónica,desarrollando proyectos de sistemas embebidos, automatizaciones y python,etc
 - 📈 Siempre `creando`, `experimentando` y `aprendiendo`
 - 🔗Escribime a zapanitomas7@gmail.com y mi [Currículum Vitae](https://media.licdn.com/dms/image/v2/D4D22AQHqzBPXZZYjwA/feedshare-shrink_1280/B4DZZ1WYpfGgAk-/0/1745725525246?e=1748476800&v=beta&t=RIOtn3n8L04Cidej33hnGLIhFtvxPhHSIvHdVKYB-yA)
 
