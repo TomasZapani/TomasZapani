@@ -11,7 +11,7 @@
 
 ---
 
-- 🔭 Actualmente trabajando en: **sistemas embebidos + automatizaciones con n8n / Python**  
+- 🔭 Actualmente trabajando en: **sistemas embebidos + automatizaciones con n8n / Python llms**  
 - 🌱 Aprendiendo: **Electrónica (ITBA ingreso), FastAPI, ML aplicado**  
 - 🤝 Abierto a colaborar en: **proyectos IoT y de IA prácticos**  
 - 💬 Pregúntame sobre: **Python, C++, ESP32, sensores, FastAPI, flujos n8n**  
