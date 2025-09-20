@@ -1,95 +1,39 @@
-<h1 align="center">Hola, soy Tomás<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+![MasterHead](https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg)
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+</a>
+<h1 align="center">Hi 👋, I'm Ujjwal</h1>
+<h3 align="center">A passionate Software Developer from India</h3>
 
-<p align="center">
-  <a href="https://github.com/tu_usuario">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00C7FF&size=24&center=true&vCenter=true&width=500&height=70&lines=Técnico+en+Computación;Desarrollador+Python+y+C%2B%2B;Robótica+y+Electrónica;IA;Automtización;Siempre+Aprendiendo"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalb09&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalb09" /> </p>
 
-  </a>
+<p align="left"> <a href="https://twitter.com/ujjwalbhatt09" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalbhatt09?logo=twitter&style=for-the-badge" alt="ujjwalbhatt09" /></a> </p>
+
+- 🔭 I’m currently working on: **My side projects**
+
+- 🌱 I’m currently learning: **MERN stack**
+
+- 👯 I’m looking to collaborate on: **Interesting open source projects**
+
+- 💬 Ask me about: **Java, SpringBoot, Express**
+
+- 📫 How to reach me: **Drop me an email at ujjwalbhatt09@gmail.com**
+
+- ⚡ Fun fact: **Debugging was coined after removing bugs from computer hardware.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ujjwalbhatt09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjwalbhatt09" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ujjwal-bhatt-b256271a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-bhatt-b256271a3" height="30" width="40" /></a>
+<a href="https://instagram.com/_ujjwalbhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ujjwalbhatt" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ujjwalbhatt09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjwalbhatt09" height="30" width="40" /></a>
 </p>
 
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=tu_usuario&label=Vistas%20de%20perfil&color=0e75b6&style=flat" alt="Vistas de perfil"/> 
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwalb09&show_icons=true&locale=en&layout=compact" alt="ujjwalb09" /></p>
 
-## 📚 Sobre Mí
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwalb09&show_icons=true&locale=en" alt="ujjwalb09" /></p>
 
-<picture> <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px"></picture>
-
-- 🏫 Actualmente estudiando `Electrónica`,`Técnicatura en computación`
-- 💻 Formación como `Técnico en Computación y electrónico`
-- 🫠 Apasionado por la `IA`, `Robótica-Electrónica`,`Automatización`
-- 🛠️ Trabajando con electrónica,desarrollando proyectos de sistemas embebidos, automatizaciones y python,etc
-- 📈 Siempre `creando`, `experimentando` y `aprendiendo`
-- 🔗Escribime a zapanitomas7@gmail.com y mi [Currículum Vitae](https://media.licdn.com/dms/image/v2/D4D22AQHqzBPXZZYjwA/feedshare-shrink_1280/B4DZZ1WYpfGgAk-/0/1745725525246?e=1748476800&v=beta&t=RIOtn3n8L04Cidej33hnGLIhFtvxPhHSIvHdVKYB-yA)
-
-<br>
-
-## 👤 Conectá Conmigo
-
-<p align="center">
-  <a href="https://github.com/TomasZapani"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/tomas-zapani-736722234/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-
-<br>
-
-## 🛠️ Mi Stack Tecnológico
-
-### Lenguajes de Programación
-<p align="center"> 
-  <img alt="Python" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-  <img alt="SQL" src="https://img.icons8.com/color/48/000000/sql.png"/>
-  <img alt="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-</p>
-
-### Librerías y Frameworks
-<p align="center">
-  <img alt="Pandas" src="https://img.icons8.com/color/48/000000/pandas.png"/>
-  <img alt="NumPy" src="https://img.icons8.com/color/48/000000/numpy.png"/>
-  <img alt="Matplotlib" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48"/>
-  <img alt="Seaborn" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="90"/>
-  <img alt="Scikit-Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
-  <img alt="FastAPI" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="48"/>
-</p>
-
-
-### Herramientas
-<p align="center">
-  <img alt="GitHub" src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
-  <img alt="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48"/>
-  <imp alt="MySQL" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
- <img alt="n8n" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/images/n8n-logo.png" width="120" />
-
-
-
-
-</p>
-
-### IDEs
-<p align="center">
-  <img alt="PyCharm" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-  <img alt="Arduino" src="https://img.icons8.com/color/48/000000/arduino.png"/>
-   <img alt="Visual Studio Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-</p>
-
-<p align="center">
-</p>
-
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TomasZapani&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TomasZapani&theme=tokyonight" alt="Rachas de GitHub"/>
-
-
-
-</p>
-
-
----
-
-<p align="center">💌 ¡Siempre aprendiendo, siempre creciendo!</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalb09&" alt="ujjwalb09" /></p>
