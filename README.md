@@ -12,9 +12,8 @@
 ---
 
 - 🔭 Actualmente trabajando en: **sistemas embebidos + automatizaciones con n8n / Python llms**  
-- 🌱 Aprendiendo: **Electrónica (ITBA ingreso), FastAPI, ML aplicado**  
-- 🤝 Abierto a colaborar en: **proyectos IoT y de IA prácticos**  
-- 💬 Pregúntame sobre: **Python, C++, ESP32, sensores, FastAPI, flujos n8n**  
+- 🌱 Aprendiendo: **Ing Electrónica (ITBA), FastAPI, ML aplicado**  
+- 💬 Pregúntame sobre: **Python, C++, ESP32, sensores, FastAPI, flujos n8n, IoT**  
 - 📫 Cómo contactarme: **zapanitomas7@gmail.com**  
 - 🔗 LinkedIn: **[tomas-zapani](https://www.linkedin.com/in/tomas-zapani-736722234/)**
 
