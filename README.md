@@ -12,7 +12,7 @@
 ---
 
 - 🔭 Actualmente trabajando en: **sistemas embebidos + automatizaciones con n8n / Python llms + Telecomunicaciones **  
-- 🌱 Aprendiendo: **Ing Electrónica (UTN)**  
+- 🌱 Aprendiendo: **Ing Electrónica (UTN), Linux, Telecomunicaciones, Hardware hacking, Hacking WIFI**  
 - 💬 Pregúntame sobre: **Python, C++, Telecomunicaciones, sistemas embebidos, Linux**  
 - 📫 Cómo contactarme: **zapanitomas7@gmail.com**  
 - 🔗 LinkedIn: **[tomas-zapani](https://www.linkedin.com/in/tomas-zapani-736722234/)**
