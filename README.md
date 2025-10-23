@@ -36,14 +36,12 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/arduino.png" alt="Arduino" />
   </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" height="48"/>
-  </a>
-  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/images/n8n-logo.png" alt="n8n" height="36"/>
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" alt="Git" height="40"/>
   </a>
 </p>
 
