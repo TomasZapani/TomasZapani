@@ -44,6 +44,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" height="40"/>
 </a>
 
+<a href="https://www.ros.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" height="40"/>
+</a>
+
+
 </p>
 
 ---
