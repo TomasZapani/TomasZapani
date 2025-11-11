@@ -48,6 +48,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" height="40"/>
 </a>
 
+<a href="https://go.dev/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" height="40"/>
+</a>
+
+
 
 </p>
 
