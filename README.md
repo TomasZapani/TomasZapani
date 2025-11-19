@@ -11,8 +11,8 @@
 
 ---
 
-- 🔭 Actualmente trabajando en: **sistemas embebidos + robótica + automatizaciones con tools como n8n / Python llms, etc**  
-- 🌱 Aprendiendo: **Ing Electrónica (UTN), Robótica(cursos), IA(cursos)**  
+- 🔭 Actualmente trabajando en: **sistemas embebidos + robótica + automatizaciones con tools de workflows / Python, fastapi, ai, etc**  
+- 🌱 Aprendiendo: **Ing Electrónica (UTN), Robótica, IA**  
 - 💬 Pregúntame sobre: **Python, C++,sistemas embebidos, Linux, Robótica**  
 - 📫 Cómo contactarme: **zapanitomas7@gmail.com**  
 - 🔗 LinkedIn: **[tomas-zapani](https://www.linkedin.com/in/tomas-zapani-736722234/)**
