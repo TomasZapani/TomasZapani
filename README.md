@@ -11,7 +11,7 @@
 
 ---
 
-- 🔭 Actualmente trabajando en: **sistemas embebidos + robótica + automatizaciones con tools de workflows / Python, fastapi, ai, etc**  
+- 🔭 Actualmente trabajando en: **sistemas embebidos + robótica + automatizaciones con tools de workflows / Python, Go, ai, etc**  
 - 🌱 Aprendiendo: **Ing Electrónica (UTN), Robótica, IA**  
 - 💬 Pregúntame sobre: **Python, C++,Go, sistemas embebidos, Linux, Robótica**  
 - 📫 Cómo contactarme: **zapanitomas7@gmail.com**  
