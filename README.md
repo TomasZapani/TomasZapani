@@ -48,9 +48,8 @@
 <a href="https://go.dev/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" height="40"/>
 </a>
-
 <a href="https://nodered.org/" target="_blank" rel="noreferrer">
-  <img src="https://nodered.org/about/resources/media/node-red-icon.svg" alt="Node-RED" height="40"/>
+  <img src="https://nodered.org/about/resources/media/node-red-square.svg" alt="Node-RED" height="40"/>
 </a>
 
 </p>
