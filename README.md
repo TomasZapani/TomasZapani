@@ -50,7 +50,7 @@
 </a>
 <a href="https://nodered.org/" target="_blank" rel="noreferrer">
   <img src="https://nodered.org/about/resources/media/node-red-hexagon.svg" alt="Node-RED" height="40"/>
-</a>a>
+</a>
 
 </p>
 
