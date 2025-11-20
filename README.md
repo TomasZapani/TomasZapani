@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center">Hola, soy Tomás <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Técnico en computación · Desarrollador Python/C++ · Electrónica-Robótica></h3>
+<h3 align="center">Técnico en computación · Desarrollador Go/C++ · Electrónica-Robótica></h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TomasZapani&label=Vistas%20de%20perfil&color=0e75b6&style=flat" alt="Vistas de perfil" />
@@ -13,7 +13,7 @@
 
 - 🔭 Actualmente trabajando en: **sistemas embebidos + robótica + automatizaciones con tools de workflows / Python, fastapi, ai, etc**  
 - 🌱 Aprendiendo: **Ing Electrónica (UTN), Robótica, IA**  
-- 💬 Pregúntame sobre: **Python, C++,sistemas embebidos, Linux, Robótica**  
+- 💬 Pregúntame sobre: **Python, C++,Go, sistemas embebidos, Linux, Robótica**  
 - 📫 Cómo contactarme: **zapanitomas7@gmail.com**  
 - 🔗 LinkedIn: **[tomas-zapani](https://www.linkedin.com/in/tomas-zapani-736722234/)**
 
