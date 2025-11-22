@@ -13,7 +13,7 @@
 
 - 🔭 Actualmente trabajando en: **sistemas embebidos + robótica + automatizaciones con tools de workflows / Python, Go, ai, etc**  
 - 🌱 Aprendiendo: **Ing Electrónica (UTN), Robótica, IoT,IA**  
-- 💬 Pregúntame sobre: **Python, C++,Go, sistemas embebidos, Linux, Robótica**  
+- 💬 Pregúntame sobre: **Python, C++,sistemas embebidos, Linux, Robótica**  
 - 📫 Cómo contactarme: **zapanitomas7@gmail.com**  
 - 🔗 LinkedIn: **[tomas-zapani](https://www.linkedin.com/in/tomas-zapani-736722234/)**
 
@@ -45,9 +45,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" height="40"/>
 </a>
 
-<a href="https://go.dev/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" height="40"/>
-</a>
 <a href="https://nodered.org/" target="_blank" rel="noreferrer">
   <img src="https://nodered.org/about/resources/media/node-red-hexagon.svg" alt="Node-RED" height="40"/>
 </a>
