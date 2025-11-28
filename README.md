@@ -50,7 +50,7 @@
 </a>
 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" height="40"/>
+  <img src="https://raw.githubusercontent.com/pallets/flask/refs/heads/main/docs/_static/flask-vertical.png" alt="Flask" height="40"/>
 </a>
 
 
