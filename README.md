@@ -53,6 +53,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" height="40"/>
 </a>
 
+<a href="https://es.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" height="40"/>
+</a>
+
 
 
 
