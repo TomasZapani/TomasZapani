@@ -15,7 +15,7 @@
 - 🌱 Aprendiendo: **Ing en Computacion(UNLP), IA, LLMs, Visiòn Artifical**  
 - 💬 Pregúntame sobre: **Python, C++,sistemas embebidos, Linux, IA, LLMs**  
 - 📫 Cómo contactarme: **zapanitomas7@gmail.com**  
-- 🔗 LinkedIn: **[tomas-zapani](https://www.linkedin.com/in/tomas-zapani-736722234/)**
+- 🔗 LinkedIn: **[tomas-zapani](https://www.linkedin.com/in/tom%C3%A1s-jes%C3%BAs-zapani-736722234/overlay/contact-info/)**
 
 ---
 
