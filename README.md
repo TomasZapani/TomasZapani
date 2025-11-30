@@ -11,9 +11,9 @@
 
 ---
 
-- 🔭 Actualmente trabajando en: **sistemas embebidos(de hobbie) + automatizaciones con tools de workflows / Python, ai, etc**  
+- 🔭 Actualmente trabajando en: **sistemas embebidos(de hobbie) + automatizaciones con tools de workflows / Python, ia, llms, etc**  
 - 🌱 Aprendiendo: **Ing en Computacion(UNLP),IA**  
-- 💬 Pregúntame sobre: **Python, C++,sistemas embebidos, Linux, IA**  
+- 💬 Pregúntame sobre: **Python, C++,sistemas embebidos, Linux, IA, LLMs**  
 - 📫 Cómo contactarme: **zapanitomas7@gmail.com**  
 - 🔗 LinkedIn: **[tomas-zapani](https://www.linkedin.com/in/tomas-zapani-736722234/)**
 
