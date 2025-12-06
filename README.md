@@ -46,6 +46,13 @@
 <a href="https://es.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" height="40"/>
 </a>
+<a href="https://es.wikipedia.org/wiki/Go_(lenguaje_de_programaci%C3%B3n)" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" height="40"/>
+</a>
+
+<a href="https://es.wikipedia.org/wiki/Solidity" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" height="40"/>
+</a>
 
 </p>
 
