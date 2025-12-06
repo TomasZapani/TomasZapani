@@ -12,8 +12,8 @@
 ---
 
 - 🔭 Actualmente trabajando en: **sistemas embebidos(de hobbie) + automatizaciones con tools de workflows / Python, ia, llms, etc**  
-- 🌱 Aprendiendo: **Ing en Computacion(UNLP), IA, LLMs, Deep Learning**  
-- 💬 Pregúntame sobre: **Python, C++,sistemas embebidos, Linux, IA, LLMs**  
+- 🌱 Aprendiendo: **Ing en Computacion(UNLP), IA, LLMs, Blockchain**  
+- 💬 Pregúntame sobre: **Python, C++,sistemas embebidos,IA, LLMs, Blockchain**  
 - 📫 Cómo contactarme: **zapanitomas7@gmail.com**  
 - 🔗 LinkedIn: **[tomas-zapani](https://www.linkedin.com/in/tom%C3%A1s-jes%C3%BAs-zapani-736722234/overlay/contact-info/)**
 
@@ -39,9 +39,7 @@
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/en/docs/img/logo-margin/logo-teal.png" alt="FastAPI" height="40"/>
 </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" height="40"/>
-</a>
+
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" height="40"/>
 </a>
