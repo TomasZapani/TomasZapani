@@ -13,7 +13,7 @@
 
 - 🔭 Actualmente trabajando en: **automatizaciones/Python, ia, llms + backend + blockchain**  
 - 🌱 Aprendiendo: **Ing en Computacion(UNLP), IA, LLMs, Blockchain**  
-- 💬 Pregúntame sobre: **Python, C++,sistemas embebidos(como hobbie),IA, LLMs, Blockchain**  
+- 💬 Pregúntame sobre: **Python,sistemas embebidos(como hobbie),IA, LLMs, Blockchain**  
 - 📫 Cómo contactarme: **zapanitomas7@gmail.com**  
 - 🔗 LinkedIn: **[tomas-zapani](https://www.linkedin.com/in/tom%C3%A1s-jes%C3%BAs-zapani-736722234/overlay/contact-info/)**
 
