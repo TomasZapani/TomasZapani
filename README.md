@@ -11,7 +11,8 @@
 
 ---
 
-- 🔭 Actualmente trabajando en: **ia generativa + backend-microserv + blockchain**  
+- 🔭 Actualmente trabajando en: **ia generativa + backend-microserv + blockchain**
+- 💪 Fuerte en: **Go, Solidty y C++**
 - 🌱 Aprendiendo: **Ing en Computacion(UNLP), IA, Backend, Blockchain**  
 - 💬 Pregúntame sobre: **IA, Backend, Blockchain**  
 - 📫 Cómo contactarme: **zapanitomas7@gmail.com**  
