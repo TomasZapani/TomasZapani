@@ -12,8 +12,8 @@
 ---
 
 - 🔭 Actualmente trabajando en: **ia generativa + backend-microserv + blockchain(aprendiendo)**  
-- 🌱 Aprendiendo: **Ing en Computacion(UNLP), IA, LLMs, Blockchain**  
-- 💬 Pregúntame sobre: **Python, IA, LLMs, Blockchain**  
+- 🌱 Aprendiendo: **Ing en Computacion(UNLP), IA, Backend, Blockchain**  
+- 💬 Pregúntame sobre: **Python, IA, Backend, Blockchain**  
 - 📫 Cómo contactarme: **zapanitomas7@gmail.com**  
 - 🔗 LinkedIn: **[tomas-zapani](https://www.linkedin.com/in/tom%C3%A1s-jes%C3%BAs-zapani-736722234/overlay/contact-info/)**
 
