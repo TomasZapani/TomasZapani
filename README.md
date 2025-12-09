@@ -11,7 +11,7 @@
 
 ---
 
-- 🔭 Actualmente trabajando en: **automatizaciones/Python, ia, llms + backend + blockchain**  
+- 🔭 Actualmente trabajando en: **ia generativa + backend-microserv + blockchain(aprendiendo)**  
 - 🌱 Aprendiendo: **Ing en Computacion(UNLP), IA, LLMs, Blockchain**  
 - 💬 Pregúntame sobre: **Python, IA, LLMs, Blockchain**  
 - 📫 Cómo contactarme: **zapanitomas7@gmail.com**  
