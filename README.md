@@ -11,7 +11,7 @@
 
 ---
 
-- 🔭 Actualmente trabajando en: **ia generativa + backend-microserv + blockchain**
+- 🔭 Actualmente trabajando en: **ia generativa + backend-microserv**
 - 💪 Fuerte en: **Go, Python y C++**
 - 🌱 Aprendiendo: **Ing en Computacion(UNLP), IA, Backend, Blockchain**  
 - 💬 Pregúntame sobre: **IA, Backend, Blockchain**  
