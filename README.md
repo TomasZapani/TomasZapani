@@ -13,8 +13,8 @@
 
 - 🔭 Actualmente trabajando en: **ia generativa + backend-microserv**
 - 💪 Fuerte en: **Go, Python y C++**
-- 🌱 Aprendiendo: **Ing en Computacion(UNLP), IA, Backend, Blockchain**  
-- 💬 Pregúntame sobre: **IA, Backend, Blockchain**  
+- 🌱 Aprendiendo: **Ing en Computacion(UNLP), IA, Backend-Microserv, Blockchain**  
+- 💬 Pregúntame sobre: **IA, Backend**  
 - 📫 Cómo contactarme: **zapanitomas7@gmail.com**  
 - 🔗 LinkedIn: **[tomas-zapani](https://www.linkedin.com/in/tom%C3%A1s-jes%C3%BAs-zapani-736722234/overlay/contact-info/)**
 
