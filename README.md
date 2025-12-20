@@ -38,6 +38,10 @@
 <a href="https://es.wikipedia.org/wiki/Go_(lenguaje_de_programaci%C3%B3n)" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" height="40"/>
 </a>
+<a href="https://es.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" height="40"/>
+</a>
+
 
 </p>
 
