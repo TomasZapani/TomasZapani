@@ -9,6 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=TomasZapani&label=Vistas%20de%20perfil&color=0e75b6&style=flat" alt="Vistas de perfil" />
 </p>
 
+
 ---
 
 - 🔭 Actualmente trabajando en: **ia generativa + backend-microserv**
