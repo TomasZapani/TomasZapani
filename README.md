@@ -9,8 +9,8 @@
 
 ---
 
-- 🔭 Actualmente trabajando en: **ia generativa + backend-microserv**
-- 💪 Fuerte en: **Go, C++ Python**
+- 🔭 Actualmente trabajando en: **IA + backend-microserv**
+- 💪 Fuerte en: **Go, C++ y Python**
 - 🌱 Aprendiendo: **Ing en Computacion(UNLP), IA, Backend-Microserv**  
 - 💬 Pregúntame sobre: **IA, Backend**  
 - 📫 Cómo contactarme: **zapanitomas7@gmail.com**  
