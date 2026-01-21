@@ -23,9 +23,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" />
   </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" />
-  </a>
+<a href="https://es.wikipedia.org/wiki/C_Sharp" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" height="40"/>
+</a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40"/>
