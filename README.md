@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Algunos/as Lenguajes y Herramientas (clave)
+## 🛠️ Algunos/as Lenguajes y Herramientas
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" />
