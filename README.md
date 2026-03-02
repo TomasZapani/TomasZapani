@@ -9,9 +9,9 @@
 
 ---
 
-- 🔭 Actualmente trabajando en: **IA-ML + backend-microservicios**
-- 💪 Fuerte en: **Go, C# y Python**
-- 🌱 Aprendiendo: **Ing Informática, IA-ML, Backend**  
+- 🔭 Actualmente trabajando en: **IA-DL + back-end**
+- 💪 Fuerte en: **Go, C++ y Python**
+- 🌱 Aprendiendo: **Ing Informática, IA generativa, Infraestructura IA, DL Backend**  
 - 💬 Pregúntame sobre: **IA-ML, Backend**  
 - 📫 Cómo contactarme: **zapanitomas7@gmail.com**  
 - 🔗 LinkedIn: **[tomas-zapani](https://www.linkedin.com/in/tom%C3%A1s-jes%C3%BAs-zapani-736722234/overlay/contact-info/)**
