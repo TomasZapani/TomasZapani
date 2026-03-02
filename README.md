@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola, soy Tomás <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Técnico en computación · Backend · Estudiante de Ing Informatica · IA-ML</h3>
+<h3 align="center">Técnico en computación · Backend · Estudiante de Ing Informatica · IA-DL</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TomasZapani&label=Vistas%20de%20perfil&color=0e75b6&style=flat" alt="Vistas de perfil" />
@@ -9,9 +9,9 @@
 
 ---
 
-- 🔭 Actualmente trabajando en: **IA-DL + back-end**
+- 🔭 Actualmente trabajando en: **IA-DL + Back-end**
 - 💪 Fuerte en: **Go, C++ y Python**
-- 🌱 Aprendiendo: **Ing Informática, IA generativa, Infraestructura IA, DL Backend**  
+- 🌱 Aprendiendo: **Ing Informática, IA generativa, Infraestructura IA, DL, Back-end**  
 - 💬 Pregúntame sobre: **IA-ML, Backend**  
 - 📫 Cómo contactarme: **zapanitomas7@gmail.com**  
 - 🔗 LinkedIn: **[tomas-zapani](https://www.linkedin.com/in/tom%C3%A1s-jes%C3%BAs-zapani-736722234/overlay/contact-info/)**
