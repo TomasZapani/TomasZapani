@@ -11,7 +11,7 @@
 
 - 🔭 Actualmente trabajando en: **IA-DL + Back-end**
 - 💪 Fuerte en: **Go, C++ y Python**
-- 🌱 Aprendiendo: **Ing Informática(UADE), IA generativa, Infraestructura IA, DL, Back-end**  
+- 🌱 Aprendiendo: **Ing Electrónica(UADE), IA generativa, Infraestructura IA, DL, Back-end**  
 - 💬 Pregúntame sobre: **IA-ML, Backend**  
 - 📫 Cómo contactarme: **zapanitomas7@gmail.com**  
 - 🔗 LinkedIn: **[tomas-zapani](https://www.linkedin.com/in/tom%C3%A1s-jes%C3%BAs-zapani-736722234/overlay/contact-info/)**
