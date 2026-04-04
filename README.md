@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 Actualmente trabajando en: **IA-DL + Back-end**
+- 🔭 Actualmente trabajando en: **Back-end + IA Generativa**
 - 💪 Fuerte en: **Go, C# y Python**
 - 🌱 Aprendiendo: **Ing Informática(UADE), IA, Back-end**  
 - 💬 Pregúntame sobre: **IA-DL, Back-end, Hardware**  
