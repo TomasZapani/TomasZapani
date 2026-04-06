@@ -23,9 +23,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" />
   </a>
-<a href="https://es.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="40"/>
-</a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40"/>
