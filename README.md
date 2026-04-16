@@ -10,7 +10,7 @@
 ---
 
 - 🔭 Actualmente trabajando en: **Back-end + IA Generativa**
-- 💪 Fuerte en: **Go, C# y Python**
+- 💪 Fuerte en: **Go y Python**
 - 🌱 Aprendiendo: **Ing Informática(UADE), IA, Back-end**  
 - 💬 Pregúntame sobre: **IA, Back-end**  
 - 📫 Cómo contactarme: **zapanitomas7@gmail.com**  
