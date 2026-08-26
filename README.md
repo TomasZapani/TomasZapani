@@ -9,10 +9,9 @@
 
 ---
 
-- 🔭 Actualmente trabajando en: **Back-end + IA Generativa**
-- 💪 Fuerte en: **Go y Python**
-- 🌱 Aprendiendo: **Ing Informática(UADE), GenAI, Back-end**  
-- 💬 Pregúntame sobre: **GenAI, Back-end**  
+- 🔭 Actualmente trabajando en: **Back-end**
+- 💪 Fuerte en: **Go, Python y C++**
+- 🌱 Aprendiendo: **Ing Electrónica(UADE), Back-end, Sistemas Embebidos**  
 - 📫 Cómo contactarme: **zapanitomas7@gmail.com**  
 - 🔗 LinkedIn: **[tomas-zapani](https://www.linkedin.com/in/tomasjesuszapani?utm_source=share_via&utm_content=profile&utm_medium=member_ios)**
 
